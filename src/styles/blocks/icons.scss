@@ -3,7 +3,7 @@
   height: 24px;
   width: 24px;
   background-size: cover;
-  transition: transform $effectDuration;
+  transition: transform $effect-duration;
 
   @include hover(transform, scale(1.2));
 
@@ -17,7 +17,7 @@
 
     @include on-desktop {
       &::before {
-        content: '+1 234 5555-55-55';
+        content: "+1 234 5555-55-55";
         position: absolute;
         left: -180px;
         top: 50%;

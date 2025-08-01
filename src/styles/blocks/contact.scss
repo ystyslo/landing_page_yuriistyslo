@@ -82,7 +82,7 @@
 
   &__value {
     color: #191919;
-    font-family: 'Space Mono', 'Courier New', Courier, monospace;
+    font-family: "Space Mono", "Courier New", Courier, monospace;
     font-weight: 400;
     font-size: 16px;
     line-height: 140%;
@@ -108,7 +108,7 @@
     font-size: 16px;
     line-height: 27px;
 
-    transition: all $effectDuration;
+    transition: all $effect-duration;
 
     @include on-tablet {
       width: 100%;

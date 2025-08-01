@@ -1,7 +1,7 @@
 .product {
   &__photo {
     width: 100%;
-    transition: all $effectDuration;
+    transition: all $effect-duration;
 
     &:hover {
       transform: scale(101%);
@@ -17,7 +17,7 @@
   }
 
   &__description {
-    font-family: 'Space Mono', 'Courier New', Courier, monospace;
+    font-family: "Space Mono", "Courier New", Courier, monospace;
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
