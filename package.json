@@ -2,6 +2,7 @@
   "name": "landing_page_yuriistyslo",
   "version": "1.0.0",
   "description": "Landing page for gadget store",
+  "homepage": "https://ystyslo.github.io/landing_page_yuriistyslo/",
   "scripts": {
     "init": "mate-scripts init",
     "start": "mate-scripts start",
